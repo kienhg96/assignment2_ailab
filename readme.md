@@ -1,6 +1,7 @@
 # Assignment 2 of AIlab
 Compile assignment2.c with FLAG -lm to fix undefined reference to `pow'
-gcc -o linear main.c -lm 
+
+**gcc -o linear main.c -lm**
 
 [GitHub](https://github.com/kienhg96/assignment2_ailab)
 
