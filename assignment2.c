@@ -1,7 +1,7 @@
 /*
 WARNING:
 	Compile this file with FLAG -lm to fix some problem with math.h
-	gcc -o linear main.c -lm 
+	gcc -o a2 assignment2.c -lm
 */
 
 #include <stdio.h>
