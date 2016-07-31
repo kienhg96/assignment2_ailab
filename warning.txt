@@ -1,0 +1,2 @@
+	Compile this file with FLAG -lm to fix undefined reference to `pow'
+	gcc -o linear main.c -lm 
