@@ -1,2 +1,3 @@
-	Compile this file with FLAG -lm to fix undefined reference to `pow'
+WARNING:
+	Compile this file with FLAG -lm if you have problem with math.h
 	gcc -o linear main.c -lm 

@@ -1,6 +1,6 @@
 /*
 WARNING:
-	Compile this file with FLAG -lm to fix undefined reference to `pow'
+	Compile this file with FLAG -lm to fix some problem with math.h
 	gcc -o linear main.c -lm 
 */
 
